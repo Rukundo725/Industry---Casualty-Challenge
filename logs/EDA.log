@@ -1,0 +1,14 @@
+2021-08-23 21:10:16,062 - root - INFO -  !!! reading the file !!!!! 
+
+2021-08-23 21:13:55,062 - root - INFO -  !!! reading the file !!!!! 
+
+2021-08-23 21:21:41,606 - root - ERROR -  !!! An excetion occurred Error: <class 'AttributeError'> 
+2021-08-23 21:23:03,923 - root - ERROR -  !!! An excetion occurred Error: <class 'AttributeError'> 
+2021-08-23 21:23:44,684 - root - ERROR -  !!! An excetion occurred Error: <class 'AttributeError'> 
+2021-08-23 21:23:55,661 - root - ERROR -  !!! An excetion occurred Error: <class 'AttributeError'> 
+2021-08-23 21:24:34,773 - root - ERROR -  !!! An exception occurred Error: <class 'AttributeError'> 
+2021-08-23 21:25:22,562 - root - ERROR -  !!! An exception occurred Error: <class 'AttributeError'> 
+2021-08-23 21:26:05,921 - root - ERROR -  !!! An exception occurred Error: <class 'AttributeError'> 
+2021-08-23 21:28:35,959 - root - ERROR -  !!! An exception occurred Error: <class 'AttributeError'> 
+2021-08-23 21:29:14,896 - root - ERROR -  !!! An exception occurred Error: <class 'AttributeError'> 
+2021-08-23 22:22:59,634 - root - INFO -  all nones from The Breast cancer dataset
