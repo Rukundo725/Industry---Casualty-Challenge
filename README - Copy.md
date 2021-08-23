@@ -1,1 +1,0 @@
-# Industry---Casualty-Challenge
