@@ -9447,3 +9447,13 @@
 2021-08-24 22:31:55,717 - root - ERROR -  !!! An exception occurred Error: <class 'ValueError'> 
 2021-08-24 22:33:33,228 - root - INFO -  !!! plotting scatter plot of: Perimeter & Radius 
 2021-08-24 22:33:33,754 - root - ERROR -  !!! An exception occurred Error: <class 'ValueError'> 
+2021-08-24 22:45:27,435 - root - INFO -  !!! plotting scatter plot of: Perimeter & Radius 
+2021-08-24 22:45:27,676 - root - ERROR -  !!! An exception occurred Error: <class 'ValueError'> 
+2021-08-24 22:45:38,374 - root - INFO -  !!! plotting scatter plot of: Perimeter & Radius 
+2021-08-24 22:45:38,426 - root - ERROR -  !!! An exception occurred Error: <class 'ValueError'> 
+2021-08-24 22:46:59,914 - root - INFO -  !!! plotting scatter plot of: Perimeter & Radius 
+2021-08-24 22:47:00,013 - root - ERROR -  !!! An exception occurred Error: <class 'ValueError'> 
+2021-08-24 22:47:08,234 - root - INFO -  !!! plotting scatter plot of: Perimeter & Radius 
+2021-08-24 22:47:08,341 - root - ERROR -  !!! An exception occurred Error: <class 'ValueError'> 
+2021-08-24 22:47:30,064 - root - INFO -  !!! plotting scatter plot of: Perimeter & Radius 
+2021-08-24 22:47:30,450 - root - ERROR -  !!! An exception occurred Error: <class 'ValueError'> 
